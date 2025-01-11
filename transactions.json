@@ -1,0 +1,19 @@
+{
+    "income": 500,
+    "expenses": 200,
+    "balance": 5050,
+    "transactions": [
+        {
+            "type": "income",
+            "amount": "5000",
+            "balance": 5300,
+            "date": "2025-01-11 07:40:18"
+        },
+        {
+            "type": "expense",
+            "amount": "250",
+            "balance": 5050,
+            "date": "2025-01-11 07:40:23"
+        }
+    ]
+}
