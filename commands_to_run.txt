@@ -1,0 +1,14 @@
+php money_manager.php money-manager add-income 500
+
+php money_manager.php money-manager add-expense 200
+
+php money_manager.php money-manager view-history
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+the transaction history will persist as it is stored in the transactions.json file.
+
+All data will be available, and you can track every income, expense, and the current balance.
+
+----------------------------------------------------------------------------------------------------------------------------
